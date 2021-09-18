@@ -9,23 +9,25 @@
 
 - :book: Mi educación:
 
-  - Graduado en Ingeniería Informática, especializado en Computación por la Universidad de Córdoba
-  - Máster Profesional de Ingeniería Informática por la Universidad de Granada
+  - Graduado en Ingeniería Informática, especializado en Computación por la Universidad de Córdoba.
+  - Máster Profesional de Ingeniería Informática por la Universidad de Granada.
 
 - 🔭 Los proyectos en los que estoy trabajando actualmente:
 
-  - Subir a repositorios públicos muchos de los proyectos realizados durante la carrera y el máster.
-  - Repasar y agregar documentación a los proyectos, tanto los proyectos existentes como a los futuros.
+  - Subiendo a repositorios públicos muchos de los proyectos realizados durante la carrera y el máster.
+  - Repasando y agregando documentación a los proyectos, tanto los proyectos existentes como a los futuros.
   - Participando en algunas competiciones de Kaggle: Google Research Football.
-  - Diseñando un videojuego de juego por turnos.
-  - Diseñando un BOT en python para que simule una liga entre diferentes equipos.
+  - Diseñando un videojuego de juego por turnos. Aún en una fase inicial.
+  - Diseñando y programando un BOT en python para que simule una liga entre diferentes equipos. Versión alfa del BOT terminada, pronto lo publicaré en un repositorio.
+  - Diseñando y programando mi página web personal.
   
 - 🌱 Estoy aprendiendo actualmente:
 
-  - Programación web de forma más profunda, utilizando un curso de Udemy muy completo.
+  - Programación web de forma más profunda en diferentes lenguajes de programación y con diferentes frameworks, utilizando varios cursos de Udemy muy completos.
   - Conceptos avanzados sobre aprendizaje por refuerzo.
-  - Conceptos para un diseño exitoso de videojuegos.
+  - Conceptos para un diseño exitoso de videojuegos, utilizando diferentes cursos y libros, por ejemplo: *"Level Up! The Guide to Great Video Game Design"*.
   - Algunos lenguajes de programación desconocidos para mi como Scala.
+  - Nivel más avanzado de Inglés, hablando con un grupo de personas en este idioma de forma regular.
   
 - :computer: Mis herramientas y técnologias preferidas:
 
@@ -34,20 +36,35 @@
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![CPlus](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   
+  
 - 💬 Preguntame sobre:
 
+  - Ciencia de datos.
   - Inteligencia artificial.
+  - Big Data.
+  - Criptografía.
   - Aprendizaje automático.
-  - Análisis de datos.
-  - Diseño software.
+  - Aprendizaje profundo.
+  - Programación en la nube.
+  - Desarrollo de videojuegos.
+  - Programación web.
+  - Criptomonedas.
+  - Diseño de software.
+  - Software libre.
+  - Informática gráfica.
   - Metodologias ágiles.
-  - Computación en la nube.
   
 <!--
 **NSInductus/NSInductus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
